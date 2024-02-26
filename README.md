@@ -1,0 +1,1 @@
+Sentiment Analysis of Tweets was performed by using Logistic Regression from Python's scikitlearn library to classify tweets as positive or negative. nltk library in Python was utilized to obtain and pre-process tweets dataset.
